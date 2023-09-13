@@ -74,13 +74,12 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![download](https://github.com/BaskaranV15/HISTOGRAM/assets/118703522/b3e61ad8-5c37-4e5f-94d2-2300fe11179b)
-
+![ex43](https://github.com/BaskaranV15/HISTOGRAM/assets/118703522/9a88a65a-6351-4c6c-b26a-b02df25580d2)
 
 ![ex42](https://github.com/BaskaranV15/HISTOGRAM/assets/118703522/e39b88da-7bba-421f-adf7-fa09104c541b)
 
 ### Histogram of Grayscale Image and any channel of Color Image
-![ex43](https://github.com/BaskaranV15/HISTOGRAM/assets/118703522/9a88a65a-6351-4c6c-b26a-b02df25580d2)
+
 
 ![ex44](https://github.com/BaskaranV15/HISTOGRAM/assets/118703522/201bc531-ff9a-4003-9e44-9016d5a3b376)
 ![ex45](https://github.com/BaskaranV15/HISTOGRAM/assets/118703522/d69f98b5-d737-447f-8b27-40a132f2d9bc)
